@@ -1,5 +1,5 @@
 // Ścieżka do aktualnie wykonywanego zadania
-const entryPath = "08_Dzien_4_-_Praca_domowa/02_Flexbox_Grow_Shrink";
+const entryPath = ".";
 
 const gulp = require("gulp");
 const sass = require("gulp-sass");
